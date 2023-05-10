@@ -1,4 +1,4 @@
-package Builder
+package builder
 
 fun main(){
     val employee = Employee.EmployeeBuilder()

@@ -1,4 +1,4 @@
-package Builder
+package builder
 
 class Employee {
     private lateinit var name: String
